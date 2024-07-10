@@ -1,1 +1,1 @@
-console.log("Hello from github package registry");
+console.log("Hello from your Github Package Registry!");

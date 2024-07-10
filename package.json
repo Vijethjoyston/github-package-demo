@@ -11,5 +11,8 @@
   "repository": {
     "url": "git://github.com/Vijethjoyston/github-package-demo.git."
   },
+  "publishConfig": {
+    "start": "node index.js"
+  },
   "license": "ISC"
 }
