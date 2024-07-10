@@ -1,6 +1,6 @@
 {
   "name": "@Vijethjoyston/github-package-demo",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "url": "git://github.com/Vijethjoyston/github-package-demo.git."
   },
   "publishConfig": {
-    "start": "node index.js"
+    "registry": "https://npm.pkg.github.com/"
   },
   "license": "ISC"
 }
