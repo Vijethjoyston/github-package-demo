@@ -1,1 +1,1 @@
-console.log("Hello from New Registry");
+console.log("Hello from github package registry");
