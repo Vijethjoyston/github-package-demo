@@ -1,1 +1,3 @@
-console.log("Hello from Github Package");
+module.exports = function() {
+    console.log("Hello from Github Package Registry!");
+}
